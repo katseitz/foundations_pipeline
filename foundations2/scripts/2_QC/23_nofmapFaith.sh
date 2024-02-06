@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-#SBATCH -A p31833
+#SBATCH -A p31995
 #SBATCH -p normal
 #SBATCH -t 48:00:00
 #SBATCH --mem=35G
