@@ -3,7 +3,7 @@
 #SBATCH -A p31833
 #SBATCH -p short
 #SBATCH -t 04:00:00
-#SBATCH --mem=20G
+#SBATCH --mem=28G
 #SBATCH -J qc-found
 #SBATCH	--mail-type=END,FAIL
 #SBATCH	--mail-user=katharinaseitz@northwestern.edu
